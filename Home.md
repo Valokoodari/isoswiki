@@ -13,6 +13,7 @@ Tavoitteenani on toistaiseksi saada pelastettua mahdollisimman suuri osa Pompeli
 * [[Sketsit]]
 
 ## Muuta merkittävää
+- [[Ruokalaulu]]
 - [[Veisukirja]]
 - [[Hartaus]]
 

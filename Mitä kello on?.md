@@ -7,7 +7,7 @@ H2: "Kello on kaksi yöllä."<br>
 H1: "Kiitos."<br>
 <br>
 
-Lähde [https://vm.tiktok.com/ZMerHf4D1/ @mattlikestolaugh]
+Lähde: [@mattlikestolaugh](https://vm.tiktok.com/ZMerHf4D1/)
 
 
 ## Tiedot

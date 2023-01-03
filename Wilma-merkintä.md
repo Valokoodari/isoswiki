@@ -1,24 +1,23 @@
-{{sketsi
- | nimi       = Wilma-merkintä
- | rooleja    = 2
- | ikä        = Kaikille?
- | kesto      = 1 minuutti
- | sisällä    = Kyllä
- | ulkona     = Kyllä
- | lavasteet  = -
-}}
+Kaverukset tapaavat ja toinen kysyy:  
+\- _Oho. Mitä kävi?_  
+• **Mä olin Wilman kanssa treffeillä, kävi huonosti ja sain litsarin.**  
+\- _Hehe! Varsinainen Wilma-merkintä! :D_  
+• **NYT!!**  
+\- _Joo, sori sori._  
+• **...**  
+\- _Tais tunnit loppuu siihen. *juoksee pakoon*_  
+  
 
-Kaverukset tapaavat ja toinen kysyy:<br>
-- ''Oho. Mitä kävi?''<br>
-• '''Mä olin Wilman kanssa treffeillä, kävi huonosti ja sain litsarin.'''<br>
-- ''Hehe! Varsinainen Wilma-merkintä! :D''<br>
-• '''NYT!!'''<br>
-- ''Joo, sori sori.''<br>
-• '''...'''<br>
-- ''Tais tunnit loppuu siihen. *juoksee pakoon*''<br>
-<br>
+Lähde: [@jannyberg](https://vm.tiktok.com/JdGk3Gc)
 
-Lähde: [https://vm.tiktok.com/JdGk3Gc @jannyberg]
 
-[[Luokka:Sketsit]]
-[[Luokka:Kuivikset]]
+## Tiedot
+### Isoset
+- rooleja: 2
+- ikä: Kaikille?
+
+### Yleistä
+- kesto: 1 minuutti
+- sisällä: Kyllä
+- ulkona: Kyllä
+- lavasteet: -

@@ -4,12 +4,12 @@ Leikkijät jaetaan kahteen ryhmään, jotka menevät vastakkaisiin riveihin maka
 ### Havainnollistava ilmakuva leikkijöistä
 (HUOM! kuvassa epärealistisen laihat leikkijät liian kaukana toisistaan, joten pallo voisi pudota leikkijöiden väliin.)
 ```
->->o   o<-< <
->->o   o<-< <
->->o   o<-< <
->->o   o<-< <
->->o   o<-< <
->->o   o<-< <
+>->o   o<-<
+>->o   o<-<
+>->o   o<-<
+>->o   o<-<
+>->o   o<-<
+>->o   o<-<
 ```
 
 ## Tiedot

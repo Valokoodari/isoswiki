@@ -31,6 +31,6 @@ Leiriläinen on terve kun se leikkii, isonen kun se ei osaa lopettaa.
 - [[Viimeinen vessapaperirulla]]
 - [[Rikkinäinen puhelin]]
 
-### Aiheesta muualla:
+## Aiheesta muualla:
 - [Leikit PartioWikissä](http://fi.scoutwiki.org/Luokka:Leikit)
 - [Leikit Wikipediassa](https://fi.wikipedia.org/wiki/Luokka:Leikit)

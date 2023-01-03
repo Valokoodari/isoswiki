@@ -34,3 +34,4 @@ Leiriläinen on terve kun se leikkii, isonen kun se ei osaa lopettaa.
 ## Aiheesta muualla:
 - [Leikit PartioWikissä](http://fi.scoutwiki.org/Luokka:Leikit)
 - [Leikit Wikipediassa](https://fi.wikipedia.org/wiki/Luokka:Leikit)
+- [Leikit Pompelipediassa](https://wiki.isosten.net/wiki/Luokka:Leikit)

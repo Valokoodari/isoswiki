@@ -6,7 +6,7 @@ Sketsit ovat merkittävä osa ripareiden iltaohjelmia, sillä niillä on mahdoll
 - [[Huutokauppa]]
 - [[Hyvää päivää, kirvesvartta]]
 - [[Igor]]
-- [[Mitä kello on]]
+- [Mitä kello on?](Mitä kello on)
 - [[Moottoritie on kuuma]]
 - [[Porkkanat korvissa]]
 - [[Snägärillä]]

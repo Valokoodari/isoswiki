@@ -16,28 +16,6 @@ Tavoitteenani on toistaiseksi saada pelastettua mahdollisimman suuri osa Pompeli
 - [[Veisukirja]]
 - [[Hartaus]]
 
-### Tulevaa sisältöä
-Leikit:
-- Evoluutio
-- Muistipeli
-- Hedelmäsalaatti
-- Kärpäslätkä
-- Minä rakastan sinua
-- Nakki
-- Nakkikuppi
-- Lentävä matto
-- Lännen nopein
-- Mafioso
-- Pienin pieni leppäkerttu
-- Savolainen pesäpallo
-- Solmu
-- Johnny Whoop
-- Vaimonryöstö
-- Viimeinen vessapaperirulla
-- Rikkinäinen puhelin
-
-Sketsit: (lista tulossa)
-
 
 ### IsosWikin löydät myös sosiaalisesta mediasta:
 - [Twitter](https://twitter.com/isoswiki)

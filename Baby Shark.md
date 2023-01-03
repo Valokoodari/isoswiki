@@ -1,54 +1,51 @@
-{{ leikki
- | nimi          = Baby Shark
- | leikkijöitä   = Sopivasti
- | ikä           = Kaikenikäiset
- | kesto         = 5 minuuttia
- | alue          = Häröpallero
- | tarvikkeet    = Tietynlaista kajahtaneisuutta
-}}
-
-=Leikin kulku=
+## Leikin kulku
 Leikin johtaja seisoo ryhmän edessä laulaen ja esittäen samalla lauluun kuuluvaa tanssia ryhmän laulaessa ja tanssiessa mallin mukaan samaan aikaan.
 
-=Sanat=
-:''Baby shark, doo doo doo doo doo doo''
-:''Baby shark, doo doo doo doo doo doo''
-:''Baby shark, doo doo doo doo doo doo''
-:''Baby shark!''
+## Sanat
+_Baby shark, doo doo doo doo doo doo_  
+_Baby shark, doo doo doo doo doo doo_  
+_Baby shark, doo doo doo doo doo doo_  
+_Baby shark!_  
 
 
-:''Mommy shark, doo doo doo doo doo doo''
-:''Mommy shark, doo doo doo doo doo doo''
-:''Mommy shark, doo doo doo doo doo doo''
-:''Mommy shark!''
+_Mommy shark, doo doo doo doo doo doo_  
+_Mommy shark, doo doo doo doo doo doo_  
+_Mommy shark, doo doo doo doo doo doo_  
+_Mommy shark!_  
 
 
-:''Daddy shark, ...''
+_Daddy shark, ..._
 
-:''Grandma shark, ...''
+_Grandma shark, ..._
 
-:''Grandpa shark, ...''
+_Grandpa shark, ..._
 
-:''Go to swim, ...''
+_Go to swim, ..._
 
-:''Is that shark, ...''
+_Is that shark, ..._
 
-:''It is shark, ...''
+_It is shark, ..._
 
-:''Swim away, ...''
+_Swim away, ..._
 
-:''Swim faster, ...''
+_Swim faster, ..._
 
-:''Shark attack, ...''
+_Shark attack, ..._
 
-:''I am dead, ...''
+_I am dead, ..._
 
-:''Go to heaven, ...''
+_Go to heaven, ..._
 
-:''Party with Jesus, ...''
+_Party with Jesus, ..._
 
 
-[[Luokka:Leikit]]
-[[Luokka:Sisäleikit]]
-[[Luokka:Ulkoleikit]]
-[[Luokka:Laululeikit]]
+## Tiedot
+
+### Leikkijät
+- leikkijöitä: Sopivasti
+- ikä: Kaikenikäiset
+
+### Yleistä
+- kesto: 5 minuuttia
+- alu: Häröpallero
+- tarvikkeet: Tietynlaista kajahtaneisuutta

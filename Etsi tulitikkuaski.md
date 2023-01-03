@@ -1,20 +1,16 @@
-{{ leikki
- | nimi          = Etsi tulitikkuaski
- | leikkijöitä   = 4 - 30
- | ikä           = Kaikenikäiset
- | kesto         = 5 - 10 minuuttia
- | alue          = Iso ja tyhjä
- | tarvikkeet    = Tulitikkuaski
-}}
-
-==Alkuvalmistelut==
+## Alkuvalmistelut
 Tulitikkuaski laitetaan yhden "leikkijän" housujen vyölenkkiin.
 
-==Leikin kulku==
+## Leikin kulku
 Leikkijöille kerrotaan, että tilaan on piilotettu tulitikkuaski aivan näkyville. Kaikkien on kuljettava ympäri tilaa tulitikkuaskia etsien. Heti askin nähtyään leikkijän tulee poistua sivuun sanomatta muille sanaakaan askin sijainnista.
 
+## Tiedot
 
-[[Luokka:Leikit]]
-[[Luokka:Sisäleikit]]
-[[Luokka:Ulkoleikit]]
-[[Luokka:Hoksausleikit]]
+### Leikkijät
+- leikkijöitä: 4 - 30
+- ikä: Kaikenikäiset
+
+### Yleistä
+- kesto: 5 - 10 minuuttia
+- alue: Iso ja tyhjä
+- tarvikkeet: Tulitikkuaski

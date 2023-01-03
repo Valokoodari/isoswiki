@@ -2,7 +2,7 @@
 title: Etusivu
 ---
 
-# Tervetuloa IsosWikiin
+# Tervetuloa uudistettuun IsosWikiin
 Wikin sisällön määrä on toistaiseksi erittäin vähäinen, sillä toistaiseksi kaikki sisältö sivustolla on yhden henkilön kirjoittamaa. Toivoisin siis jokaisen levittävän tietoa tämän wikin olemassaolosta eteenpäin, jotta saisimme yhdessä muodostettua maailman kattavimman tietokannan isosena toimimista varten.
 
 # Tavoite

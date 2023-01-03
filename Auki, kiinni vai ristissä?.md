@@ -13,6 +13,9 @@ Leikkijöiden tehtävänä on arvata leikin juoni.
 - Kiinni: Kysyjän jalat yhdessä  
 - Ristissä: Kysyjällä toinen jalka toisen päällä.  
 
+
+## Tiedot
+
 ### Leikkijät
 - Määrä: 6-30
 - Ikä: Kaikenikäiset
